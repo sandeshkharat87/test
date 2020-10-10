@@ -1,4 +1,4 @@
 # test
 testing
 
-`< print("sandesh") >`
+` print("sandesh") `
